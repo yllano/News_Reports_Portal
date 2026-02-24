@@ -21,4 +21,3 @@ portal-idea/dist/
 # Redundant Root Config (Project is inside portal-idea/)
 package.json
 package-lock.json
-postcss.config.js
